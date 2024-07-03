@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrouter_sample"]=self["webpackChunkrouter_sample"]||[]).push([[272],{2272:function(e,r,n){n.r(r),n.d(r,{default:function(){return l}});var t=n(6768);function s(e,r,n,s,o,u){return(0,t.uX)(),(0,t.CE)("div",null,"動態路由請見 console.log")}var o=n(4373),u={props:["id"],created(){const e=this.id;o.A.get(`https://randomuser.me/api/?seed=${e}`).then((e=>{console.log(e)}))}},a=n(1241);const c=(0,a.A)(u,[["render",s]]);var l=c}}]);
+//# sourceMappingURL=272.a9823fc1.js.map

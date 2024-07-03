@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrouter_sample"]=self["webpackChunkrouter_sample"]||[]).push([[255],{1255:function(e,r,n){function u(e,r){return" 404 NOT FOUND "}n.r(r),n.d(r,{default:function(){return c}});var t=n(1241);const s={},a=(0,t.A)(s,[["render",u]]);var c=a}}]);
+//# sourceMappingURL=255.e9775585.js.map
